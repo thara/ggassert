@@ -6,7 +6,7 @@ It's also using generics supported since Go 1.18 later.
 
 ## Usage
 
-```
+```go
 ggassert.Equal(t, 1, 2, "failed")
 ggassert.Equal(t, 1, "aaa", "failed") // compile error: default type string of "aaa" does not match inferred type int for T
 ```
