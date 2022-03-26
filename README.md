@@ -4,6 +4,10 @@
 
 It's also using generics supported since Go 1.18 later.
 
+## Requirement
+
+go 1.18 later
+
 ## Usage
 
 ```go
