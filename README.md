@@ -17,6 +17,10 @@ ggassert.Equal(t, 1, "aaa", "failed") // compile error: default type string of "
 go get github.com/thara/ggassert
 ```
 
+## License
+
+MIT
+
 ## Author
 
 Tomochika Hara (a.k.a [thara](https://thara.dev))
